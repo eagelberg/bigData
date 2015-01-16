@@ -1,0 +1,32 @@
+﻿<Window x:Class="BigData.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Stock Analysis" Height="255.693" Width="414.433">
+    <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Width="120">Number of stocks:</Label>
+            <TextBox Width="100" Height="22" Name="numOfStocksTextBox"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Width="120">Analyze:</Label>
+            <TextBox Width="100" Height="22" Name="daysTextBox"></TextBox>
+            <Label>Days from today backwards</Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Width="120">Features for analysis:</Label>
+            <CheckBox VerticalAlignment="Center" Name="OpenCheckBox"/>
+            <Label>Open</Label>
+            <CheckBox VerticalAlignment="Center" Name="HighCheckBox"/>
+            <Label>High</Label>
+            <CheckBox VerticalAlignment="Center" Name="LowCheckBox"/>
+            <Label>Low</Label>
+            <CheckBox VerticalAlignment="Center" Name="CloseCheckBox"/>
+            <Label>Close</Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Width="120">Clusters:</Label>
+            <TextBox Name="clustersTextBox" Width="100" Height="22"/>
+        </StackPanel>
+        <Button Click="Button_Click" Content="Analyze" HorizontalAlignment="Center" Width="117" Height="30" Margin="20"/>
+    </StackPanel>
+</Window>

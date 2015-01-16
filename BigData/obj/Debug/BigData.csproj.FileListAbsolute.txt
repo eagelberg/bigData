@@ -1,0 +1,13 @@
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\bin\Debug\BigData.exe.config
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\bin\Debug\BigData.exe
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\bin\Debug\BigData.pdb
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\BigData.csprojResolveAssemblyReference.cache
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\MainWindow.baml
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\MainWindow.g.cs
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\App.g.cs
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\BigData_MarkupCompile.cache
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\BigData.g.resources
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\BigData.Properties.Resources.resources
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\BigData.csproj.GenerateResource.Cache
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\BigData.exe
+c:\users\guy\documents\visual studio 2013\Projects\BigData\BigData\obj\Debug\BigData.pdb
